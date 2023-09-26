@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PICO443
-- 👀 I’m interested in web back end development
-- 🌱 I’m currently learning spring boot 
+- 👋 Hi, I’m Abubakr Elsadig (PICO)
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Firebase
 
 
 <!---
